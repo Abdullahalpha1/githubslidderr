@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.pr{
+    background-image:url(./pics/pexels-pixabay-33109.jpg);
+    background-size: 100% 100%;
+    
+}
+.pn{
+    background-size: 100% 100%;
+}
+li{
+    list-style: none;
+}
